@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 An end-to-end Machine Learning pipeline designed to predict patient diseases based on symptoms, age, and gender. The project includes data preprocessing, exploratory data analysis (EDA), feature selection, and the implementation of multiple supervised and unsupervised machine learning algorithms, capped off with an interactive web UI.
 
-##  Key Scientific Finding: Dataset Analysis
+## 🔬 Key Scientific Finding: Dataset Analysis
 A major component of this project was evaluating the integrity of the provided `Healthcare.csv` dataset. Through rigorous mathematical evaluation across multiple models, **it was mathematically proven that the dataset is synthetic and randomly generated**, lacking real-world clinical correlations. 
 
 **Proof of Synthetic Data:**
@@ -39,4 +39,3 @@ The project includes a dynamic, user-friendly interface built with **Gradio**. T
    ```bash
    pip install -r requirements.txt
 3. Run the main script or Jupyter Notebook to execute the pipeline and launch the Gradio interface.
-4. 
